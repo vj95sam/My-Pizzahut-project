@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-25T14:40:17 UTC" name="Default suite" finished-at="2023-02-25T14:41:24 UTC" duration-ms="67056">
+    <groups>
+    </groups>
+    <test started-at="2023-02-25T14:40:17 UTC" name="Default test" finished-at="2023-02-25T14:41:24 UTC" duration-ms="67056">
+      <class name="pizzahurtPorjecttestng.TestNG">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pizzahurtPorjecttestng.TestNG@2b40ff9c]" started-at="2023-02-25T14:40:16 UTC" name="setup" finished-at="2023-02-25T14:40:17 UTC" duration-ms="1110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Lunchedapplication()[pri:0, instance:pizzahurtPorjecttestng.TestNG@2b40ff9c]" started-at="2023-02-25T14:40:17 UTC" name="Lunchedapplication" finished-at="2023-02-25T14:41:24 UTC" duration-ms="67022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lunchedapplication -->
+        <test-method is-config="true" signature="setup1()[pri:0, instance:pizzahurtPorjecttestng.TestNG@2b40ff9c]" started-at="2023-02-25T14:41:24 UTC" name="setup1" finished-at="2023-02-25T14:41:24 UTC" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+      </class> <!-- pizzahurtPorjecttestng.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
